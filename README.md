@@ -12,7 +12,7 @@
 
 - 📫 How to reach me *chavansachin9673@gmail.com*
 
-- 📫 My Portfolio https://Sachin-12345678.github.io/
+- 📫 My Portfolio https://sachin-12345678.github.io/
 
 
 - 📄 Know about my experiences 

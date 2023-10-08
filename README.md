@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachin-12345678&label=Profile%20views&color=0e75b6&style=flat" alt="Sachin-12345678" /> </p>
 
-- 🌱 I’m currently learning *node.js*
+- 🌱 I’m currently learning *Node.JS*
 
 - 💬 Ask me about *Express, MongoDB, Mongoose, Socket.IO, AWS*
 

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *Node.JS*
 
-- 💬 Ask me about *Express, MongoDB, Mongoose, Socket.IO, AWS, Redis, Promt, React, HTML, CSS, JavaScript*
+- 💬 Ask me about *Express, MongoDB, Mongoose, Socket.IO, AWS, Redis, Prompt, React, HTML, CSS, JavaScript*
 
 - 📫 How to reach me *chavansachin9673@gmail.com*
 
